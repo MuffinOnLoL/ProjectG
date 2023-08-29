@@ -10,7 +10,7 @@ using UnityEngine;
 
 public class GrapplingRope : MonoBehaviour
 {
-     [Header("General Refernces:")]
+     [Header("General References:")]
     public GrapplingGun grapplingGun;
     public LineRenderer m_lineRenderer;
 
